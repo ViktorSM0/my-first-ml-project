@@ -41,4 +41,7 @@ models/*.h5
 .vscode/
 .idea/
 
+# OS
+.DS_Store
+Thumbs.db
 
